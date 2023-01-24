@@ -1,0 +1,12 @@
+Tightly couple
+    - classes
+
+Loose Coupling
+    - interfaces
+
+Spring Beans
+
+Spring Annotations
+
+SNAPSHOT
+    version currently under development
