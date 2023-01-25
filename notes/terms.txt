@@ -5,6 +5,7 @@ Loose Coupling
     - interfaces
 
 Spring Beans
+    - things managed by Spring 
 
 Spring Annotations
 
