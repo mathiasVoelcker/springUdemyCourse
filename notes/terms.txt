@@ -11,3 +11,21 @@ Spring Annotations
 
 SNAPSHOT
     version currently under development
+
+
+Spring Container
+    manages Spring beans and lifecycles
+    configuration and beans are "passed as inputs" to the Spring container
+    creates a running system from classes and configuration
+    2 types:
+        Bean factory
+        Application Context
+
+
+IOC Container
+    IOC = inversion of control
+    Spring Container = Spring Context = IOC Container
+
+Application context
+
+Auto-wiring
